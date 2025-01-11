@@ -1,12 +1,12 @@
-# THE LIBRARY
+# Beautiful Jekyll
 
-[![Gem Version](https://badge.fury.io/rb/-jekyll-theme.svg)](https://badge.fury.io/rb/-jekyll-theme)
+[![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 
-> By [Gustouv Leck](https://Gusyj.com) &middot;
+> By [Dean Attali](https://deanattali.com) &middot; [Demo](https://beautifuljekyll.com/)
 
-**The Library** is a ready-to-use template to help you create an impactful website for non-profits, charities, and global organizations dedicated to empowering kids. Perfect for social initiatives, educational projects, and grassroots campaigns. to see the possibilities. You can also explore  other people created using this theme.
+**Beautiful Jekyll** is a ready-to-use template to help you create a beautiful website quickly. Perfect for personal sites, blogs, or simple project websites.  [Check out a demo](https://beautifuljekyll.com) of what you'll get after just two minutes.  You can also look at [my personal website](https://deanattali.com) or [my consulting website](https://attalitech.com) to see it in use, or see [examples of websites](http://beautifuljekyll.com/examples) other people created using this theme.
 
-**If you enjoy  the libraary, please consider [supporting me](https://github.com/sponsors/gusyj). You'll also gain access to office hours and more features! ❤**
+**If you enjoy Beautiful Jekyll, please consider [supporting me](https://github.com/sponsors/daattali). You'll also gain access to office hours and more features! ❤**
 
 ## Table of contents
 
@@ -26,32 +26,32 @@
 
 __Check out [*What's New?*](https://beautifuljekyll.com/updates/) to see the latest features!__
 
-- **SIMPLE**: The primary goal of  the libraary is to allow literally *anyone* to create a website in a few minutes.
+- **SIMPLE**: The primary goal of Beautiful Jekyll is to allow literally *anyone* to create a website in a few minutes.
 - **Modern**: Uses the latest best practices and technologies to achieve nearly perfect scores on Google Chrome's Audit.
 - **Mobile-first**: Designed to look great on both large-screen and small-screen (mobile) devices.
 - **Highly customizable**: Many personalization settings such as changing the background colour/image, adding a logo.
-- **Flexible usage**: Use  the libraary directly on GitHub or via a Ruby gem - choose the best [development method](#build-your-website-in-3-steps) for you.
-- **Battle-tested**: By using  the libraary, you'll be joining 50,000+ users enjoying this theme since 2015.
+- **Flexible usage**: Use Beautiful Jekyll directly on GitHub or via a Ruby gem - choose the best [development method](#build-your-website-in-3-steps) for you.
+- **Battle-tested**: By using Beautiful Jekyll, you'll be joining 50,000+ users enjoying this theme since 2015.
 - **SEO and social media support**: Customize how your site looks on Google and when shared on social media.
 - **Comments support**: Add comments to any page using either [Disqus](https://disqus.com/), [Facebook comments](https://developers.facebook.com/docs/plugins/comments), [Utterances](https://utteranc.es/), [Staticman](https://staticman.net), [giscus](https://giscus.app), or [CommentBox](https://commentbox.io/).
 - **Tags**: Any blog post can be tagged with keywords, and an index page is automatically generated.
 - **Analytics**: Easily integrate Google Analytics, or other analytics platforms, to track visits to your website.
 - **Search**: Let users easily find any page using a Search button in the navigation bar.
 - **Photos support**: Any page can have a full-width cover photo and thumbnail.
-- **RSS**: An RSS feed is automatically created, so you can even host a podcast easily with  the libraary.
+- **RSS**: An RSS feed is automatically created, so you can even host a podcast easily with Beautiful Jekyll.
 
 <h2 id="sponsors">Sponsors 🏆</h2>
 
-Developing and maintaining  the libraary takes a lot of time and effort - thank you to anyone who helps fund this effort!
+Developing and maintaining Beautiful Jekyll takes a lot of time and effort - thank you to anyone who helps fund this effort!
 
 - [DoFollow](https://dofollow.co.uk/)
 - [Varna Sri Raman](https://about.me/varna)
 
-**[Become a sponsor for  the libraary and unlock new features\!](https://github.com/sponsors/gusyj/sponsorships?tier_id=39856)**
+**[Become a sponsor for Beautiful Jekyll and unlock new features\!](https://github.com/sponsors/daattali/sponsorships?tier_id=39856)**
 
 # Build your website in 3 steps
 
-There are a few different ways to build a website using  the libraary, and this document will go through the simplest one: using a fork on GitHub. For most people (including myself!), this easy method is the recommended one.
+There are a few different ways to build a website using Beautiful Jekyll, and this document will go through the simplest one: using a fork on GitHub. For most people (including myself!), this easy method is the recommended one.
 
 Even if you choose to use one of the [advanced installation methods](https://beautifuljekyll.com/getstarted/#install-steps-hard), I still suggest you read through the easy method first.
 
@@ -69,7 +69,7 @@ Click on the __*Fork*__ button at the top right corner of this page. Forking mea
 
 ### 2. Rename the repository to `YOURUSERNAME.github.io`
 
-You'll see the word "repository" used a lot in GitHub - it simply means "project". Under __*Repository name*__ you should see the name `-the libraary`, this is where you need to rename your project to `YOURUSERNAME.github.io` (replace `YOURUSERNAME` with your GitHub user name). It's important to use this exact name so that GitHub will recognize it and automatically create a website for this project.   
+You'll see the word "repository" used a lot in GitHub - it simply means "project". Under __*Repository name*__ you should see the name `beautiful-jekyll`, this is where you need to rename your project to `YOURUSERNAME.github.io` (replace `YOURUSERNAME` with your GitHub user name). It's important to use this exact name so that GitHub will recognize it and automatically create a website for this project.   
 
 > Tip: If you want to use a different URL for your website, check out the [FAQ](https://beautifuljekyll.com/faq/#custom-domain)
  
@@ -85,13 +85,13 @@ If you named your project correctly and made an edit to the config file, your we
 
 ## The harder way (for advanced users)
 
-The instructions above explain how to use  the libraary in the easiest way: by forking on GitHub. There are more [advanced installation methods](https://beautifuljekyll.com/getstarted/#install-steps-hard) that include either using GitHub Pages with remote themes, or using Ruby gems. They provide you with more control, but are only intended for advanced users.
+The instructions above explain how to use Beautiful Jekyll in the easiest way: by forking on GitHub. There are more [advanced installation methods](https://beautifuljekyll.com/getstarted/#install-steps-hard) that include either using GitHub Pages with remote themes, or using Ruby gems. They provide you with more control, but are only intended for advanced users.
 
-> Note:  the libraary was primarily designed to be used as a GitHub theme, so you will not get any support if you use this theme via Ruby gems. 
+> Note: Beautiful Jekyll was primarily designed to be used as a GitHub theme, so you will not get any support if you use this theme via Ruby gems. 
 
 # Plans
 
- the libraary is, and always will be, free. But if you want to remove the  the libraary ad from your website, use a Dark Mode skin, access office hours, or simply support the development efforts, [check out the different plans](https://beautifuljekyll.com/plans).
+Beautiful Jekyll is, and always will be, free. But if you want to remove the Beautiful Jekyll ad from your website, use a Dark Mode skin, access office hours, or simply support the development efforts, [check out the different plans](https://beautifuljekyll.com/plans).
 
 # Add your own content
 
@@ -124,15 +124,15 @@ subtitle: Here you'll find all the ways to get in touch with me
 ---
 ```
 
-If you don't want to use any parameters on a page, you still need to use the two dashed lines. If you don't, then your file will be shown as-is without the  the libraary template.
+If you don't want to use any parameters on a page, you still need to use the two dashed lines. If you don't, then your file will be shown as-is without the Beautiful Jekyll template.
 
-You can look at the top of [`aboutme.md`](https://raw.githubusercontent.com/gusyj/-the libraary/master/aboutme.md) as an example.
+You can look at the top of [`aboutme.md`](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/aboutme.md) as an example.
 
 **Important takeaway: ALWAYS add the YAML front matter, which is two lines of three dashes, to EVERY page. If you have any parameters, they go between the two lines.**
 
 # Supported parameters
 
-Below is a list of the parameters that  the libraary supports (any of these can be added to the YAML front matter of any page). Remember to also look in the `_config.yml` file to see additional site-wide settings. If there's a parameter that you want to apply to the entire site instead of one specific page, check out [this FAQ answer](https://beautifuljekyll.com/faq/#default-params).
+Below is a list of the parameters that Beautiful Jekyll supports (any of these can be added to the YAML front matter of any page). Remember to also look in the `_config.yml` file to see additional site-wide settings. If there's a parameter that you want to apply to the entire site instead of one specific page, check out [this FAQ answer](https://beautifuljekyll.com/faq/#default-params).
 
 ## Main parameters
 
@@ -169,7 +169,7 @@ readtime    | If you want a post to show how many minutes it will take to read i
 show-avatar | If you have an avatar configured in the `_config.yml` but you want to turn it off on a specific page, use `show-avatar: false`.
 social-share | By default, every blog post has buttons to share the page on social media. If you want to turn this feature off, use `social-share: false`.
 nav-short   | By default, the navigation bar gets shorter after scrolling down the page. If you want the navigation bar to always be short on a certain page, use `nav-short: true`
-gh-repo   | If you want to show GitHub buttons at the top of a post, this sets the GitHub repo name (eg. `gusyj/-the libraary`). You must also use the `gh-badge` parameter to specify what buttons to show.
+gh-repo   | If you want to show GitHub buttons at the top of a post, this sets the GitHub repo name (eg. `daattali/beautiful-jekyll`). You must also use the `gh-badge` parameter to specify what buttons to show.
 gh-badge  | Select which GitHub buttons to display. Available options are: [star, watch, fork, follow]. You must also use the `gh-repo` parameter to specify the GitHub repo.
 last-updated | If you want to show that a blog post was updated after it was originally released, you can specify an "Updated on" date.
 layout      | What type of page this is (default is `post` for blog posts and `page` for other pages). See _Page types_ section below for more information.
@@ -201,39 +201,39 @@ ext-css      | List of external CSS files to include in the page. External CSS f
 
 # Featured users (success stories!)
 
-Visit the [Official website](http://beautifuljekyll.com/examples) to see sample websites using  the libraary.
+Visit the [Official website](http://beautifuljekyll.com/examples) to see sample websites using Beautiful Jekyll.
 
-If you'd like to showcase yourself and join this list, [upgrading to the Individual plan](https://github.com/sponsors/gusyj/sponsorships?&tier_id=7362) will give you that publicity plus some other rewards!
+If you'd like to showcase yourself and join this list, [upgrading to the Individual plan](https://github.com/sponsors/daattali/sponsorships?&tier_id=7362) will give you that publicity plus some other rewards!
 
 # Next steps
 
-Congratulations on making it this far! You now have all the tools to easily build a  website for free. 
+Congratulations on making it this far! You now have all the tools to easily build a beautiful website for free. 
 
-- After you get comfortable with the basics of writing in markdown, I suggest taking a look at this [sample post](https://beautifuljekyll.com/2020-02-28-sample-markdown/) and [the code that created it](https://raw.githubusercontent.com/gusyj/-the libraary/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about markdown.
+- After you get comfortable with the basics of writing in markdown, I suggest taking a look at this [sample post](https://beautifuljekyll.com/2020-02-28-sample-markdown/) and [the code that created it](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about markdown.
 
 - I **highly recommend** going over the [*Frequently Asked Questions*](https://beautifuljekyll.com/faq/) to find out answers to questions you may not even know you have. Every few months I suggest checking the [*What's New?*](https://beautifuljekyll.com/updates/) page to see if there are new features, and learn [how to update your site to the newest version](https://beautifuljekyll.com/faq/#updating) when it's time.
 
-- You can also check out the [advanced installation methods](https://beautifuljekyll.com/getstarted/#install-steps-hard) that give you a little more control but are harder to use. Keep in mind that  the libraary was primarily designed to be used as a GitHub theme, so you will not get any support if you choose one of the Ruby installation methods. 
+- You can also check out the [advanced installation methods](https://beautifuljekyll.com/getstarted/#install-steps-hard) that give you a little more control but are harder to use. Keep in mind that Beautiful Jekyll was primarily designed to be used as a GitHub theme, so you will not get any support if you choose one of the Ruby installation methods. 
 
-- Remember that  the libraary is built on top of the libraary. This means that reading through the [the libraary documentation](https://jekyllrb.com/) will introduce you to many more features that you might find useful!
+- Remember that Beautiful Jekyll is built on top of Jekyll. This means that reading through the [Jekyll documentation](https://jekyllrb.com/) will introduce you to many more features that you might find useful!
 
 # Getting help
 
 Visit the [FAQ page](https://beautifuljekyll.com/faq) for answers to commonly asked questions.
 
-**If you choose to [become a sponsor](https://beautifuljekyll.com/plans/), you'll have access to my [office hours](https://beautifuljekyll.com/officehours/) where you can ask for help.** You can also use the [Discussions](https://github.com/gusyj/-the libraary/discussions) area to try and get help from the community.
+**If you choose to [become a sponsor](https://beautifuljekyll.com/plans/), you'll have access to my [office hours](https://beautifuljekyll.com/officehours/) where you can ask for help.** You can also use the [Discussions](https://github.com/daattali/beautiful-jekyll/discussions) area to try and get help from the community.
 
- the libraary is used by 50,000+ people with wildly varying degrees of web skills, so it's impossible to answer all the questions that may arise. For any question that's not specifically related to  the libraary and is more about the libraary or web development in general, the answer can often be found on Google, in the [the libraary documentation](https://jekyllrb.com/), or on the [the libraary support forum](https://talk.jekyllrb.com/).
+Beautiful Jekyll is used by 50,000+ people with wildly varying degrees of web skills, so it's impossible to answer all the questions that may arise. For any question that's not specifically related to Beautiful Jekyll and is more about Jekyll or web development in general, the answer can often be found on Google, in the [Jekyll documentation](https://jekyllrb.com/), or on the [Jekyll support forum](https://talk.jekyllrb.com/).
 
 # Contributions
 
-Thank you to [all past contributors](https://github.com/gusyj/-the libraary/graphs/contributors). If you find any problems or would like to contribute in any way, feel free to create a pull request/open an issue/send me a message.
+Thank you to [all past contributors](https://github.com/daattali/beautiful-jekyll/graphs/contributors). If you find any problems or would like to contribute in any way, feel free to create a pull request/open an issue/send me a message.
 
-You can also contribute by becoming an [official sponsor](https://github.com/sponsors/gusyj/sponsorships?tier_id=39856) to help keep  the libraary well-maintained!
+You can also contribute by becoming an [official sponsor](https://github.com/sponsors/daattali/sponsorships?tier_id=39856) to help keep Beautiful Jekyll well-maintained!
 
 # Credits
 
-This template was not made *entirely* from scratch. I'd like to give special thanks to [the libraary Now](https://github.com/barryclark/the libraary-now) and [Bootstrap Clean Blog](https://github.com/IronSummitMedia/startbootstrap-clean-blog), from whom I've taken several ideas initially.
+This template was not made *entirely* from scratch. I'd like to give special thanks to [Jekyll Now](https://github.com/barryclark/jekyll-now) and [Bootstrap Clean Blog](https://github.com/IronSummitMedia/startbootstrap-clean-blog), from whom I've taken several ideas initially.
 
-I'd also like to thank [Dr. the libraary's Themes](https://drjekyllthemes.github.io/), [the libraary Themes](http://jekyllthemes.org/), and another [the libraary Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring  the libraary in their the libraary theme directories.
+I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/), [Jekyll Themes](http://jekyllthemes.org/), and another [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories.
 
