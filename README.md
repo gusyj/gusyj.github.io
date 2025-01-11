@@ -4,9 +4,9 @@
 
 > By [Gustouv Leck](https://Gusyj.com) &middot;
 
-**Beautiful jekyll** is a ready-to-use template to help you create a beautiful website quickly. Perfect for personal sites, blogs, or simple project websites.  [Check out a demo](https://beautifuljekyll.com) of what you'll get after just two minutes.  You can also look at [my personal website](https://Gusyj.com) or [my consulting website](https://attalitech.com) to see it in use, or see [examples of websites](http://beautifuljekyll.com/examples) other people created using this theme.
+**The Library** is a ready-to-use template to help you create an impactful website for non-profits, charities, and global organizations dedicated to empowering kids. Perfect for social initiatives, educational projects, and grassroots campaigns. to see the possibilities. You can also explore  other people created using this theme.
 
-**If you enjoy  the libraary, please consider [supporting me](https://github.com/sponsors/daattali). You'll also gain access to office hours and more features! ❤**
+**If you enjoy  the libraary, please consider [supporting me](https://github.com/sponsors/gusyj). You'll also gain access to office hours and more features! ❤**
 
 ## Table of contents
 
@@ -47,7 +47,7 @@ Developing and maintaining  the libraary takes a lot of time and effort - thank 
 - [DoFollow](https://dofollow.co.uk/)
 - [Varna Sri Raman](https://about.me/varna)
 
-**[Become a sponsor for  the libraary and unlock new features\!](https://github.com/sponsors/daattali/sponsorships?tier_id=39856)**
+**[Become a sponsor for  the libraary and unlock new features\!](https://github.com/sponsors/gusyj/sponsorships?tier_id=39856)**
 
 # Build your website in 3 steps
 
@@ -126,7 +126,7 @@ subtitle: Here you'll find all the ways to get in touch with me
 
 If you don't want to use any parameters on a page, you still need to use the two dashed lines. If you don't, then your file will be shown as-is without the  the libraary template.
 
-You can look at the top of [`aboutme.md`](https://raw.githubusercontent.com/daattali/-the libraary/master/aboutme.md) as an example.
+You can look at the top of [`aboutme.md`](https://raw.githubusercontent.com/gusyj/-the libraary/master/aboutme.md) as an example.
 
 **Important takeaway: ALWAYS add the YAML front matter, which is two lines of three dashes, to EVERY page. If you have any parameters, they go between the two lines.**
 
@@ -169,7 +169,7 @@ readtime    | If you want a post to show how many minutes it will take to read i
 show-avatar | If you have an avatar configured in the `_config.yml` but you want to turn it off on a specific page, use `show-avatar: false`.
 social-share | By default, every blog post has buttons to share the page on social media. If you want to turn this feature off, use `social-share: false`.
 nav-short   | By default, the navigation bar gets shorter after scrolling down the page. If you want the navigation bar to always be short on a certain page, use `nav-short: true`
-gh-repo   | If you want to show GitHub buttons at the top of a post, this sets the GitHub repo name (eg. `daattali/-the libraary`). You must also use the `gh-badge` parameter to specify what buttons to show.
+gh-repo   | If you want to show GitHub buttons at the top of a post, this sets the GitHub repo name (eg. `gusyj/-the libraary`). You must also use the `gh-badge` parameter to specify what buttons to show.
 gh-badge  | Select which GitHub buttons to display. Available options are: [star, watch, fork, follow]. You must also use the `gh-repo` parameter to specify the GitHub repo.
 last-updated | If you want to show that a blog post was updated after it was originally released, you can specify an "Updated on" date.
 layout      | What type of page this is (default is `post` for blog posts and `page` for other pages). See _Page types_ section below for more information.
@@ -203,13 +203,13 @@ ext-css      | List of external CSS files to include in the page. External CSS f
 
 Visit the [Official website](http://beautifuljekyll.com/examples) to see sample websites using  the libraary.
 
-If you'd like to showcase yourself and join this list, [upgrading to the Individual plan](https://github.com/sponsors/daattali/sponsorships?&tier_id=7362) will give you that publicity plus some other rewards!
+If you'd like to showcase yourself and join this list, [upgrading to the Individual plan](https://github.com/sponsors/gusyj/sponsorships?&tier_id=7362) will give you that publicity plus some other rewards!
 
 # Next steps
 
 Congratulations on making it this far! You now have all the tools to easily build a  website for free. 
 
-- After you get comfortable with the basics of writing in markdown, I suggest taking a look at this [sample post](https://beautifuljekyll.com/2020-02-28-sample-markdown/) and [the code that created it](https://raw.githubusercontent.com/daattali/-the libraary/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about markdown.
+- After you get comfortable with the basics of writing in markdown, I suggest taking a look at this [sample post](https://beautifuljekyll.com/2020-02-28-sample-markdown/) and [the code that created it](https://raw.githubusercontent.com/gusyj/-the libraary/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about markdown.
 
 - I **highly recommend** going over the [*Frequently Asked Questions*](https://beautifuljekyll.com/faq/) to find out answers to questions you may not even know you have. Every few months I suggest checking the [*What's New?*](https://beautifuljekyll.com/updates/) page to see if there are new features, and learn [how to update your site to the newest version](https://beautifuljekyll.com/faq/#updating) when it's time.
 
@@ -221,15 +221,15 @@ Congratulations on making it this far! You now have all the tools to easily buil
 
 Visit the [FAQ page](https://beautifuljekyll.com/faq) for answers to commonly asked questions.
 
-**If you choose to [become a sponsor](https://beautifuljekyll.com/plans/), you'll have access to my [office hours](https://beautifuljekyll.com/officehours/) where you can ask for help.** You can also use the [Discussions](https://github.com/daattali/-the libraary/discussions) area to try and get help from the community.
+**If you choose to [become a sponsor](https://beautifuljekyll.com/plans/), you'll have access to my [office hours](https://beautifuljekyll.com/officehours/) where you can ask for help.** You can also use the [Discussions](https://github.com/gusyj/-the libraary/discussions) area to try and get help from the community.
 
  the libraary is used by 50,000+ people with wildly varying degrees of web skills, so it's impossible to answer all the questions that may arise. For any question that's not specifically related to  the libraary and is more about the libraary or web development in general, the answer can often be found on Google, in the [the libraary documentation](https://jekyllrb.com/), or on the [the libraary support forum](https://talk.jekyllrb.com/).
 
 # Contributions
 
-Thank you to [all past contributors](https://github.com/daattali/-the libraary/graphs/contributors). If you find any problems or would like to contribute in any way, feel free to create a pull request/open an issue/send me a message.
+Thank you to [all past contributors](https://github.com/gusyj/-the libraary/graphs/contributors). If you find any problems or would like to contribute in any way, feel free to create a pull request/open an issue/send me a message.
 
-You can also contribute by becoming an [official sponsor](https://github.com/sponsors/daattali/sponsorships?tier_id=39856) to help keep  the libraary well-maintained!
+You can also contribute by becoming an [official sponsor](https://github.com/sponsors/gusyj/sponsorships?tier_id=39856) to help keep  the libraary well-maintained!
 
 # Credits
 
