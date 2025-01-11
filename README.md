@@ -1,4 +1,4 @@
-# Beautiful Jekyll
+# THE LIBRARY
 
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 
